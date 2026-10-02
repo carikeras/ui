@@ -6,6 +6,8 @@ CariKeras UI is a Bootstrap-based visual layer inspired by the information archi
 
 It is not a copy of another brand. The components, tokens, copy, naming, and implementation are original to CariKeras.
 
+License: GNU GPL v3.0.
+
 ## Goals
 
 - Bootstrap 5 compatible
