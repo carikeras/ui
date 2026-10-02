@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "description": "Shared Bootstrap-based UI foundation for the CariKeras ecosystem.",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "files": [
     "css/",
     "dist/",
