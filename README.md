@@ -24,7 +24,7 @@ Pin a tag or commit in production. Avoid the moving main branch.
 
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/carikeras/ui@v0.1.0/dist/carikeras.min.css"
+      href="https://cdn.jsdelivr.net/gh/carikeras/ui@latest/dist/carikeras.min.css"
     >
 
 CariKeras UI expects Bootstrap 5 CSS to be loaded first:
@@ -35,7 +35,7 @@ CariKeras UI expects Bootstrap 5 CSS to be loaded first:
     >
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/carikeras/ui@v0.1.0/dist/carikeras.min.css"
+      href="https://cdn.jsdelivr.net/gh/carikeras/ui@latest/dist/carikeras.min.css"
     >
 
 For interactive Bootstrap components, load the bundled JavaScript:
